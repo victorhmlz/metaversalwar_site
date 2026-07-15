@@ -146,6 +146,7 @@ const SocialContainer = styled.footer`
         color: #FFFFFF;
         background-color: transparent;
         transition: 0.7s ease-in-out;
+        
         &:hover {
             color:#2d69fd;
         }
@@ -181,7 +182,7 @@ const Icons = styled.img`
         transform: scale(1.1);
     }
     @media (max-width: 630px){
-        width: 1.8vh;
+        width: 2.3vh;
     }
 
 `;
@@ -220,7 +221,7 @@ const SoundToggleButton = styled.img`
       transform: scale(1.1);
     }
     @media (max-width: 630px){
-        width: 1.8vh;
+        width: 2.3vh;
     }
 
 `;
