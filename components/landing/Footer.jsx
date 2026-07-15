@@ -95,11 +95,6 @@ const SocialContainer = styled.footer`
         }
     }
 
-    @media (max-width: 1000px) {
-        left: 25%;
-        right: 25%;
-    }
-
     @media (max-width: 630px) {
         left: 0%;
         right: 0%;
